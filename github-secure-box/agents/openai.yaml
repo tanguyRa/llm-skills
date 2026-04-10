@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Secure Box"
+  short_description: "Audit GitHub repos into safe local containers"
+  default_prompt: "Use $github-secure-box to turn this GitHub repository into a containerized local environment with security auditing first."
